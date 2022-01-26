@@ -1,0 +1,4 @@
+exploit.so
+exploit
+.sus
+GCONV_PATH=.
